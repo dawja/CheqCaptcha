@@ -1,1 +1,1 @@
-![Image](/img/cheq/Knight.jpg "Break by jim dawson")
+![Image](https://raw.githubusercontent.com/dawja/CheqCaptcha/master/img/cheq/Knight.png "Break by jim dawson")
